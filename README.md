@@ -1,2 +1,2 @@
-# DTDM
- DTDM project
+# DTDM - PHẦN MỀM QUẢN LÝ KINH DOANH ĐIỆN THOẠI – ĐIỆN MÁY 
+
